@@ -12,3 +12,5 @@ print (f"numeros impares: ", impares_numero)
 
 print (f"fibonacci en el rango: ", fibonacci_serie)
 
+git add*
+git commit -m "primer commit"
