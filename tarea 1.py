@@ -14,3 +14,8 @@ print (f"fibonacci en el rango: ", fibonacci_serie)
 
 git add*
 git commit -m "primer commit"
+
+print ("Arreglo Agregado")
+
+git add*
+git commit -m "arreglo en el archivo"
